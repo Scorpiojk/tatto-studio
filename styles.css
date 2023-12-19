@@ -1,0 +1,32 @@
+/* GLOBAL STYLING */
+
+/* add fonts  */
+
+@font-face {
+  font-family: tatti;
+  src: url(./assets/Fonts/RICH\ THE\ BARBER\ PERSONAL\ USE.ttf);
+}
+/* ============================== */
+
+#btn-meeting {
+  font-family: tatti;
+  font-size: 3em;
+}
+
+/* size carrousel */
+#carouselExampleCaptions {
+  height: 90vh;
+}
+
+.carousel-inner img {
+  height: 90vh;
+}
+
+.carousel-caption {
+  bottom: 30%;
+  font-size: 2em;
+}
+
+.bd-placeholder-img img {
+  height: auto;
+}
