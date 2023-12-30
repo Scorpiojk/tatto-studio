@@ -27,6 +27,20 @@
   font-size: 2em;
 }
 
+@media (max-width: 500px) {
+  .carousel-inner img {
+    height: 35vh;
+  }
+
+  .carousel-caption {
+    font-size: 1em;
+  }
+
+  #btn-meeting {
+    font-size: 1.2em;
+  }
+}
+
 .bd-placeholder-img img {
   height: auto;
 }
